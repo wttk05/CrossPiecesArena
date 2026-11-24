@@ -7,16 +7,16 @@ CrossPieces Arena（クロスピースアリーナ）の公式ドキュメント
 - **トップページ:** https://wttk05.github.io/CrossPiecesArena/
 - **遊び方・ルール:** https://wttk05.github.io/CrossPiecesArena/rules/
 - **パッチノート:** https://wttk05.github.io/CrossPiecesArena/rules/#patch-notes
-- **プライバシーポリシー（11言語）:** https://wttk05.github.io/CrossPiecesArena/privacy/
-- **利用規約（11言語）:** https://wttk05.github.io/CrossPiecesArena/terms/
+- **プライバシーポリシー:** https://wttk05.github.io/CrossPiecesArena/privacy/
+- **利用規約:** https://wttk05.github.io/CrossPiecesArena/terms/
 
 ## 構成
 
-- `index.html` — 公式ポータル（各ページ・Steamストアへの案内）
+- `index.html` — 公式ポータル（ページ内言語切替・各ページおよびSteamストアへの案内）
 - `rules/index.html` — 遊び方・ルール（画像・CSS・JavaScriptを含む単体HTML）とパッチノート表示
 - `rules/patch-notes.md` — パッチノート本体（Markdown）
-- `privacy/index.html` — プライバシーポリシー（ゲーム内 `UI.csv` 2026-10-28版・11言語と同期）
-- `terms/index.html` — 利用規約（ゲーム内 `UI.csv` 2026-10-28版・11言語と同期）
+- `privacy/index.html` — プライバシーポリシー（ページ内言語切替・ゲーム内 `UI.csv` 2026-10-28版と同期）
+- `terms/index.html` — 利用規約（ページ内言語切替・ゲーム内 `UI.csv` 2026-10-28版と同期）
 
 ## パッチノートの更新方法
 
